@@ -1,4 +1,5 @@
 # HIT ME
 ## Health IT : Modelling Environment
 
-### [License](LICENSE)
+### (HIT Journals)(JOURNALS.md)
+### [License](LICENSE.md)
