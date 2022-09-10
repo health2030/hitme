@@ -1,2 +1,4 @@
-# hitme
-Health IT : Modelling Environment
+# HIT ME
+## Health IT : Modelling Environment
+
+### [License](LICENSE)
