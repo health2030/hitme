@@ -12,7 +12,7 @@
 
 #### HIT ME tools [repo on github](https://bit.ly/hitmerepo) Please fork update and raise a pull request, or send us your github ID if you would like to help maintain the repository
 
-#### The repo content are published to the [group portal](https://bit.ly/)
+#### The repo content are published to the [group portal](https://bit.ly/hitme2030)
 
 ##### Unless otherwise notified all content on this site and repository are under CC-BY-SA 3.0 license. Please see the individual code files for applicable licenses.
 
