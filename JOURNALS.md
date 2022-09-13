@@ -34,6 +34,8 @@ https://app.nightingalescience.org/contests/3jmp2y128nxd
 
 https://conference.iima.ac.in/icodo2023/
 
+#### Escrowal: First archived at https://web.archive.org/web/20220913193838/https://health2030.github.io/hitme/JOURNALS.html
+
 https://pubmed.ncbi.nlm.nih.gov/28679876/
 
 https://www.buzzfeed.com/sarahaspler/can-you-pass-this-upside-down-and-backwards-reading-test
