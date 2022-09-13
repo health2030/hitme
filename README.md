@@ -15,7 +15,7 @@
 #### The repo content are published to the [group portal](https://bit.ly/hit2030)
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pubhtml?widget=true&amp;headers=false" width="100%" height="1024"></iframe>
 
 
 ##### Unless otherwise notified all content on this site and repository are under CC-BY-SA 3.0 license. Please see the individual code files for applicable licenses.
