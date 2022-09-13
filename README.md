@@ -1,6 +1,6 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pubhtml?widget=true&amp;headers=false" width="100%" height="1024"></iframe>
 
-# </b>Health 2030<b>
+# Health 2030
 ## Health IT : Modelling Environment
 
 #### There is an associated spreadsheet available [here](https://bit.ly/hitmexls). Please send a share request to get editing access.
