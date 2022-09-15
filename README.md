@@ -13,6 +13,8 @@
 ### [HIT Journals](JOURNALS.md)
 ### [License](LICENSE.md)
 
+##### Citation: Kindly escrow a copy on your favorite web archive and use the citation tool from there.								
+
 #### HIT ME tools [repo on github](https://bit.ly/hitmerepo) Please fork update and raise a pull request, or send us your github ID if you would like to help maintain the repository
 
 #### The repo content are published to the [group portal](https://bit.ly/hit2030)
