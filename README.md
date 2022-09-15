@@ -13,11 +13,11 @@
 ### [HIT Journals](JOURNALS.md)
 ### [License](LICENSE.md)
 
-##### Citation: Kindly escrow a copy on your favorite web archive and use the citation tool from there.
+##### Citation: Kindly escrow a copy on your favorite web archive and use the citation tool from there.	The embedded spreadsheet should be cited in its published form at https://health2030.github.io/hitme/
+
+##### Suggested citation style:
 ```
-	The embedded spreadsheet should be cited in its published form at https://health2030.github.io/hitme/ 									
-	Suggested citation style:
-	Health IT : Modelling Environment. Health 2030 Initiative. (n.d.). Retrieved September 16, 2022, from https://health2030.github.io/hitme/ and archived at https://archive.is/9xJbT
+Health IT : Modelling Environment. Health 2030 Initiative. (n.d.). Retrieved September 16, 2022, from https://health2030.github.io/hitme/ and archived at https://archive.is/9xJbT
 ```
 ##### HIT ME tools [repo on github](https://bit.ly/hitmerepo) Please fork update and raise a pull request, or send us your github ID if you would like to help maintain the repository
 
