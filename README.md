@@ -11,7 +11,7 @@
 #### The content can also be accessed in other formats [CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pub?output=csv) [PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pub?output=pdf) [XLSX](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pub?output=xlsx) [ODS](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pub?output=ods)
 
 ### [HIT Journals](JOURNALS.md)
-### [health4all vision](Health4All.md)
+### [Health 4 All Vision](Health4All.md)
 ### [License](LICENSE.md)
 
 ##### Citation: Kindly escrow a copy on your favorite web archive and use the citation tool from there.	The embedded spreadsheet should be cited in its published form at https://health2030.github.io/hitme/
