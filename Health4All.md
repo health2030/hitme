@@ -1,3 +1,5 @@
+http://web.archive.org/web/20220921031626/https://health2030.github.io/hitme/Health4All.html
+
 [21/09, 5:31 am] Abhishek Choudhary: Ok... So what makes anything expensive? 
 
 We had the commodity vs niche discussion a few days back. 
