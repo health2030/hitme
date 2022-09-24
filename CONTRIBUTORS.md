@@ -5,7 +5,7 @@ Though, maybe introductions help!
 
 I have been chasing the singularity for the past 27+ years (grade 9). Back then there were no undergrad cognitive science / neural engineering courses in this part of the globe. 
 
-So figured out some loop holes in the system, and found that if I avoided full time college then I could cover all the inherent disciplines. Did that! (Though hands on dissection on human cadavers did draw me to college for around 2 years full time, while still continuing with my startup). Dropped out of NIMHANS Neuroscience MPhil once and IISc PhD twice too. On the engineering side, our ex-rulers are quite candid about how they run their guilds. Worked out two UK professional memberships (comp engg and biomedical) and a chartered registration. Then biz needed MBA, law etc. 
+So figured out some loop holes in the system, and found that if I avoided full time college then I could cover all the inherent disciplines. Did that! (Though hands on dissection on human cadavers did draw me to college for around 2 years full time, while still continuing with my startup). Dropped out of NIMHANS Neuroscience MPhil once and IISc PhD twice too. On the engineering side, UK tech folks are quite candid about how they run their guilds. Worked out two UK professional memberships (comp engg and biomedical) and a chartered registration. Then biz needed MBA, law etc. 
 
 Then around 13 years, in the corporate world - building intelligent cars, distributed SCADA, one year in financial management with London's grumps (! aka banking regulations), and finally architected Summit Sierra's AI accelerators with IBM (these were the leading AI super computer till 2020 and run quite bit of Meta and Google AI - also form the core of Watson).
 
