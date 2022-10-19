@@ -1,6 +1,6 @@
 ##### Best viewed in "Desktop mode". If you are on a mobile device, please select desktop mode from the menu in your mobile browser.
 
-[Research standing search tool![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayelearn/ayelearntools/blob/master/notebooks/AyeCite_research_standing_training.ipynb)
+[Research standing search tool ![Open In Colab]](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayelearn/ayelearntools/blob/master/notebooks/AyeCite_research_standing_training.ipynb)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzZc057XOX5xVopnEUgtiduKbE9bFuCYTdojvrKIttU54am9FqdCoBw6DjYF9BrKGR0CY8xnavNE8V/pubhtml?widget=true&amp;headers=false" width="100%" height="2048"></iframe>
 
